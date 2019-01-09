@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "OUI" 
+date: 2019-01-09 
+categories: null
+author:  
+---
+<h2>Automatic Energy Efficient HPC Programming: A Case Study</h2><p><em>Hélène Coullon, Laurent Lefevre, Christian Perez, Issam Rais</em></p><p>Energy consumption is one of the major challenges of modern datacenters and supercomputers. By applying Green Pr
