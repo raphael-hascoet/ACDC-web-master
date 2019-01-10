@@ -1,3 +1,4 @@
 jobs
-lolol
-lalal
+awards
+research
+publications

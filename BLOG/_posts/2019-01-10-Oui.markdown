@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: "Oui" 
+date: 2019-01-10 
+categories: jobs,publications
+author: Michel 
+---
+<p><strong>BOLD</strong></p><p><em>ITALIC</em></p><p><u>UNDERLINED</u></p><p><s>CROSSED</s></p><p><br></p><blockquote>QUOTE</blockquote><pre class="ql-syntax" spellcheck="false">code(oui);
+</pre><ul><li>List</li><li>List</li></ul><ol><li>List1</li><li>List2</li></ol><h1>HEADER</h1><p><a href="http://google.com" target="_blank">lien</a></p><p><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"></p><p><br></p>
